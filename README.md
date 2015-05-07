@@ -1,2 +1,2 @@
-# python
-Python SYKA
+# Python
+Why python cool?
